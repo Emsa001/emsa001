@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emanuel</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🔭 I’m currently working on **New Generation Servers**
+- 🔭 I’m currently working on **UpLineServers.com**, **zrekidoreki.com.pl**
 
 - 🌱 I’m currently learning **Node.js, React.js**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Bootstrap, Wordpress**
+- 💬 Ask me about **HTML, CSS, Javascript, React.js, Node.js**
 
 - 📫 How to reach me **emikscura123@gmail.com**
 
