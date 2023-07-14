@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **UpLineServers.com**, **zrekidoreki.com.pl**
 
-- 🌱 I’m currently learning **Node.js, React.js**
+- 🌱 I’m currently learning **Node.js, React.js, Astro**
 
-- 💬 Ask me about **HTML, CSS, Javascript, React.js, Node.js**
+- 💬 Ask me about **React.js, Node.js, HTML, CSS, Javascript**
 
-- 📫 How to reach me **emikscura123@gmail.com**
+- 📫 How to reach me **emikscura123@gmail.com** | **discord: emsa001**
 
 - ⚡ Fun fact **Fire ants cause over £3 billion worth of damage a year**
 
