@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Emanuel</h1>
+<h1 align="center">Developer? Never heard of it</h1>
 <h3 align="center">42Wolfsburg Student</h3>
 
-- 🔭 I’m currently working on **UpLineServers.com**, **zrekidoreki.com.pl**, **minereality.eu**
+- 🔭 I’m currently working on **UpLineservers.com**, **zrekidoreki.com.pl**, **minereality.eu**
 
-- 🌱 I’m currently learning **Node.js, React.js, JavaScript, Typescript, C**
+- 🌱 I’m currently learning **JavaScript, Typescript, C**
 
-- 💬 Ask me about **React.js, Node.js, HTML, CSS, Javascript, MySQL**
+- 💬 Ask me about **React.js, Node.js, Javascript,**
 
 - 📫 How to reach me **emikscura123@gmail.com** | **discord: emsa001**
 
