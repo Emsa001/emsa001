@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **UpLineservers.com**, **zrekidoreki.com.pl**
 
-- 🌱 I’m currently learning **JavaScript, Typescript, C, C++**
+- 🌱 I’m currently learning **Typescript, C, C++**
 
 - 💬 Ask me about **React.js, Node.js, Javascript,**
 
