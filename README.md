@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Typescript, C, C++**
 
-- 💬 Ask me about **React.js, Node.js, Javascript,**
-
 - 📫 How to reach me **emikscura123@gmail.com** | **discord: emsa001**
 
 <h3 align="left">Languages and Tools:</h3>
