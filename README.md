@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on [https://zrekidoreki.com.pl](https://zrekidoreki.com.pl)
 
-- 🌱 I’m currently learning **Typescript, NextTs, Express, C++, Kotlin**
-
-- 💬 Ask me about **React, Next, Typescript, Javascript, C**
+- 🌱 I’m currently learning **Typescript, C++, Kotlin, Java**
 
 - 📫 How to reach me **emikscura123@gmail.com**
 
