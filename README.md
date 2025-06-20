@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emsa001&label=Profile%20views&color=0e75b6&style=flat" alt="emsa001" /> </p>
 
-- 🔭 I’m currently working on [https://www.emanuelscura.me](www.emanuelscura.me)
+- 🔭 I’m currently working on [www.emanuelscura.me](https://www.emanuelscura.me)
 
 - 🌱 I’m currently learning **Typescript, C++, Kotlin, Java**
 
