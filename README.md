@@ -3,9 +3,9 @@
 42 Wolfsburg graduate.  
 Software developer.  
 
-I use: C, C++, TypeScript, Kotlin
-I work with: C#, TypeScript, Kotlin
-I was forced to use: Java
+<b>I use:</b> C, C++, TypeScript, Kotlin<br />
+<b>I work with:</b> C#, TypeScript, Kotlin<br />
+<b>I was forced to use:</b> Java
 
 Portfolio → https://emanuelscura.me
 
