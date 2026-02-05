@@ -1,7 +1,7 @@
 # Me
 
 42 Wolfsburg graduate<br />
-Currently working at <a href="https://www.newyorker.de">New Yorker</a>
+Currently working at <a href="https://www.newyorker.de" target="_blank">New Yorker</a>
 
 ---
 
