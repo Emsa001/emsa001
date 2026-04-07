@@ -14,3 +14,5 @@ Portfolio → https://emanuelscura.me
 ---
 
 FullStack | Backend | Frontend | Low-Level |
+
+![](https://komarev.com/ghpvc/?username=emsa001)
