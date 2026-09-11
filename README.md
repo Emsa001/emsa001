@@ -5,9 +5,9 @@ Currently working at <a href="https://www.newyorker.de" target="_blank">New York
 
 ---
 
-<b>I use:</b> C, C++, TypeScript, Kotlin<br />
-<b>I work with:</b> C#, TypeScript, Kotlin, SQL<br />
-<b>I was forced to use:</b> Java
+<b>I personally use:</b> C, C++, TypeScript, Kotlin, GoLang<br />
+<b>I work with:</b> C#, TypeScript, Kotlin, SQL, GoLang<br />
+<b>I was forced to use:</b> Java, VSB
 
 Portfolio → https://emanuelscura.me
 
